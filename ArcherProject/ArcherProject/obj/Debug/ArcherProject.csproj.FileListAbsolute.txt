@@ -1,0 +1,10 @@
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\bin\Debug\ArcherProject.exe.config
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\bin\Debug\ArcherProject.exe
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\bin\Debug\ArcherProject.pdb
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\bin\Debug\OpenTK.dll
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\bin\Debug\OpenTK.xml
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\obj\Debug\ArcherProject.csprojResolveAssemblyReference.cache
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\obj\Debug\ArcherProject.Properties.Resources.resources
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\obj\Debug\ArcherProject.csproj.GenerateResource.Cache
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\obj\Debug\ArcherProject.exe
+S:\III Rok\Sem VI\GK-Archer\ArcherProject\ArcherProject\obj\Debug\ArcherProject.pdb
